@@ -13,3 +13,5 @@ BMI	             Body Mass Index
 Diabetes Pedigree Function	Diabetes pedigree function
 Age	             Age in years
 Outcome	         Class variable (either 0 or 1). 268 of 768 values are 1, and the others are 0
+
+..........................................................................................
