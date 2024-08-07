@@ -6,5 +6,4 @@
 ## Dataset Description:
 #### The dataset consists of several medical predictor variables and one target variable (Outcome). Predictor variables include the number of pregnancies the patient has had, their BMI, insulin level, age, and more.
 
-
-___
+![Diabetes Dashboard](https://github.com/rahangdalebhavana/Data-Science-Capstone-Project-Healthcare/blob/main/Dashboard-Diabetes.png?raw=true)
